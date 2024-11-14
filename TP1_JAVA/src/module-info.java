@@ -4,5 +4,5 @@
 /**
  * 
  */
-module TP1_JAVA {
+module Tp1 {
 }
